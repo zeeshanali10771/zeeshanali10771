@@ -1,8 +1,8 @@
 # Hi, I'm Zeeshan Ali 👋🏼 👨🏻‍💻
 
-<img align="left" src="back.gif" alt="aman-sharma-697454234" height="120" width="300" />
-<img align="right" src="giphy.gif" alt="aman-sharma-697454234" height="120" width="300" />
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="80">
+<img align="left" src="back.gif" alt="aman-sharma-697454234" height="170" width="300" />
+<img align="right" src="giphy.gif" alt="aman-sharma-697454234" height="170" width="300" />
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="70">
 
 ![](https://komarev.com/ghpvc/?username=zeeshanali10771&color=0ca4a5)
 
