@@ -1,5 +1,4 @@
 # Hi, I'm Zeeshan Ali 👋🏼 👨🏻‍💻
-<img align="left" src="https://i.gifer.com/Z2Zw.gif" alt="aman-sharma-697454234" height="120" width="300" />
 <img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="120" width="300" />
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
 
