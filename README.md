@@ -1,6 +1,6 @@
 # Hi, I'm Zeeshan Ali 👋🏼 👨🏻‍💻
 
-<img align="left" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img align="left" alt="Coder GIF" height=120 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="120" width="300" />
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="70">
 
