@@ -1,6 +1,6 @@
 # Hi, I'm Zeeshan Ali 👋🏼 👨🏻‍💻
 
-<img align="left" src="ninja.gif" alt="aman-sharma-697454234" height="170" width="300" />
+<img align="left" src="blue.gif" alt="aman-sharma-697454234" height="170" width="300" />
 <img align="right" src="robot.gif" alt="aman-sharma-697454234" height="170" width="300" />
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="70">
 
