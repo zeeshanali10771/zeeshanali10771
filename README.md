@@ -1,7 +1,7 @@
 # Hi, I'm Zeeshan Ali 👋🏼 👨🏻‍💻
 
 <img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="120" width="300" />
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="70">
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
 
 ![](https://komarev.com/ghpvc/?username=zeeshanali10771&color=0ca4a5)
 
