@@ -1,8 +1,8 @@
 # Hi, I'm Zeeshan Ali 👋🏼 👨🏻‍💻
 
 <img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="120" width="300" />
-<iframe src="https://giphy.com/embed/Ll22OhMLAlVDb8UQWe" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">via GIPHY</a></p>
+<img src="https://giphy.com/embed/Ll22OhMLAlVDb8UQWe" width="400" height="480" />
+<img src="https://giphy.com/gifs/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe" width="400" height="480"/>
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
 
 ![](https://komarev.com/ghpvc/?username=zeeshanali10771&color=0ca4a5)
