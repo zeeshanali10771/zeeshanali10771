@@ -1,8 +1,7 @@
 # Hi, I'm Zeeshan Ali 👋🏼 👨🏻‍💻
 
-<img align="left" src="blue.gif" alt="aman-sharma-697454234" height="170" width="300" />
-<img align="right" src="robot.gif" alt="aman-sharma-697454234" height="170" width="300" />
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="70">
+<img align="right" src="robot.gif" alt="aman-sharma-697454234" height="180" width="300" />
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="80">
 
 ![](https://komarev.com/ghpvc/?username=zeeshanali10771&color=0ca4a5)
 
@@ -11,7 +10,7 @@ I am a software engineer. My deal is building fast, beautiful and high-quality w
 <ul>
 <li>Front-End Web Developer</li>
 <li>Open Sourcerer</li>
-<li>Bullet List Enthusiast</li>
+<li>Cloud Enthusiast</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
