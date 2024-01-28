@@ -1,8 +1,6 @@
 # Hi, I'm Zeeshan Ali 👋🏼 👨🏻‍💻
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
-</p>	
+<img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="300" width="500" />
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 # Hello! 👋️
